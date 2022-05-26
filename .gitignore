@@ -1,0 +1,4 @@
+.DS_Store
+.ipynb_checkpoints/
+/wenv/
+config09.py
